@@ -37,11 +37,11 @@ Puedes ejecutar el proyecto de dos maneras:
 #### ▶️ Pasos
 1. Clona este repositorio:
 ```bash
-git clone <repo-link>
+git clone https://github.com/FacuMou/el-switcher-refactor
 ```
 2. Ejecuta la aplicación con Docker Compose:
 ```bash
-docker-compuse up --build
+docker-compose up --build
 ```
 3. Accede desde el navegador:
 - Frontend: http://localhost:3000
