@@ -20,7 +20,7 @@ Este proyecto es una implementación **no oficial** del juego de mesa _El Switch
 - React Router
 - Docker
 
-### 🐳 Continerizing
+### 🐳 Contenerización
 - Docker
 - Docker Compose
 
